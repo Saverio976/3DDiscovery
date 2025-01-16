@@ -1,0 +1,32 @@
+# Blender 4.2.1 LTS MTL File: 'Aristocrat_Cutlass.blend'
+# www.blender.org
+
+newmtl Steel
+Ns 147.068527
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 3.000000
+d 1.000000
+illum 3
+map_Kd 1K-old_gold-diffuse.jpg
+
+newmtl wood
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd metal_10_basecolor-1K.png
+
+newmtl wool
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 1K-abstract_2-diffuse.jpg

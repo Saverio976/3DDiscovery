@@ -1,0 +1,67 @@
+# Cube Material Library
+
+# Material for Face 1
+newmtl Face1
+Ns 100.0
+Ka 0.000 1.000 0.000  # Ambient color (Red)
+Kd 1.000 1.000 0.000  # Diffuse color (Red)
+Ks 0.500 0.500 0.500  # Specular color (Gray)
+Ke 0.000 0.000 0.000  # Emissive color
+Ni 1.000
+d 1.0
+illum 2
+
+# Material for Face 2
+newmtl Face2
+Ns 100.0
+Ka 0.000 1.000 0.000  # Ambient color (Green)
+Kd 0.000 1.000 0.000  # Diffuse color (Green)
+Ks 0.500 0.500 0.500  # Specular color (Gray)
+Ke 0.000 0.000 0.000  # Emissive color
+Ni 1.000
+d 1.0
+illum 2
+
+# Material for Face 3
+newmtl Face3
+Ns 100.0
+Ka 0.000 0.000 1.000  # Ambient color (Blue)
+Kd 0.000 0.000 1.000  # Diffuse color (Blue)
+Ks 0.500 0.500 0.500  # Specular color (Gray)
+Ke 0.000 0.000 0.000  # Emissive color
+Ni 1.000
+d 1.0
+illum 2
+
+# Material for Face 4
+newmtl Face4
+Ns 100.0
+Ka 1.000 1.000 0.000  # Ambient color (Yellow)
+Kd 1.000 1.000 0.000  # Diffuse color (Yellow)
+Ks 0.500 0.500 0.500  # Specular color (Gray)
+Ke 0.000 0.000 0.000  # Emissive color
+Ni 1.000
+d 1.0
+illum 2
+
+# Material for Face 5
+newmtl Face5
+Ns 100.0
+Ka 1.000 0.000 1.000  # Ambient color (Magenta)
+Kd 1.000 0.000 1.000  # Diffuse color (Magenta)
+Ks 0.500 0.500 0.500  # Specular color (Gray)
+Ke 0.000 0.000 0.000  # Emissive color
+Ni 1.000
+d 1.0
+illum 2
+
+# Material for Face 6
+newmtl Face6
+Ns 100.0
+Ka 0.000 1.000 1.000  # Ambient color (Cyan)
+Kd 0.000 1.000 1.000  # Diffuse color (Cyan)
+Ks 0.500 0.500 0.500  # Specular color (Gray)
+Ke 0.000 0.000 0.000  # Emissive color
+Ni 1.000
+d 1.0
+illum 2

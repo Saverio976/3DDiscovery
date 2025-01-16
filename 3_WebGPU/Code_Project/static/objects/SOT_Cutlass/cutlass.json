@@ -1,0 +1,9 @@
+{
+    "name": "Cutlass",
+    "obj": "cutlass.obj",
+    "texture": "1K-old_gold-diffuse.jpg",
+    "position": [13.0, 0.0, 9.0],
+    "angle": [-2.0, -5.0, -0.5],
+    "angleMove": 1.0,
+    "scale": 0.5
+}

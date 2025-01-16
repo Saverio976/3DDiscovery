@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>F21GA</title>
+        <link rel="stylesheet" href="./static/css/style.css">
+        <script src="https://wgpu-matrix.org/dist/3.x/wgpu-matrix.js"></script>
+        <script src="./static/js/code.js"></script>
+        <script src="./static/js/parse_obj.js"></script>
+        <script src="./static/js/parse_config.js"></script>
+    </head>
+
+    <body>
+        <canvas id="canvasElement" oncontextmenu="return false;"></canvas>
+
+        <div id="optionsCanvas">
+            <div id="cameraSpeedInfo">
+                <p>Camera Speed:</p>
+                <input id="cameraSpeed" type="range" min="1" max="10000" value="1000">
+            <div>
+            <div id="moveObjectInfo">
+                <p>Select Object:<p>
+                <select id="moveObject">
+                    <option value="None">None</option>
+                </select>
+            </div>
+            <div id="effectInfo">
+                <p>Select Effect:<p>
+                <select id="effect">
+                    <option value="None">None</option>
+                    <option value="uv">Show UV</option>
+                    <option value="toons">Toons Effect</option>
+                    <option value="normal">Show Normals</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="infosCanvas">
+            <div>
+                <p>FPS:</p>
+                <p id="fpsInfos"></p>
+            </div>
+            <div>
+                <p>Camera:<p>
+                <p id="cameraInfos"></p>
+            </div>
+            <div>
+                <p>Selected Object:</p>
+                <p id="objectInfos"></p>
+            </div>
+        </div>
+
+        <div id="helpInfos">
+            <p>Help:</p>
+            <p>---- Camera</p>
+            <p>. Up/Down: right click + Space/Left Shift</p>
+            <p>. Move: right click + WASD / ZQSD / Arrows</p>
+            <p>. Rotate: right click + mouse</p>
+            <p>. FOV: use mouse wheel<p>
+            <p>---- Object:<p>
+            <p>. Move: select the object in the dropdown, left click and move mouse<p>
+        </div>
+
+        <script type="module">
+            main(document);
+        </script>
+    </body>
+</html>

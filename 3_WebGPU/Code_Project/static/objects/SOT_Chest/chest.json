@@ -1,0 +1,9 @@
+{
+    "name": "Chest",
+    "obj": "chest.obj",
+    "texture": "metal_14_basecolor-1K.png",
+    "position": [50.0, 0.0, 9.0],
+    "angle": [0.0, -1.0, 0.0],
+    "angleMove": 2.0,
+    "scale": 10.0
+}

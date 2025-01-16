@@ -1,0 +1,9 @@
+{
+    "name": "Cylinder",
+    "obj": "cylinder.obj",
+    "texture": "metal_10_basecolor-1K.png",
+    "position": [5.0, 6.0, 9.0],
+    "angle": [-0.5, -1.0, -0.1],
+    "angleMove": 2.0,
+    "code": "code.js"
+}
