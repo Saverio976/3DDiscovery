@@ -6,17 +6,17 @@ Sea Of Thieves
 
 ## Objectives
 
-- Create a 3D model using Blender.
+- Create a **3D model** using **Blender**.
     - [Blender](./1_Blender/)
 
 ![render_image](./1_Blender/Final_Render_01.png)
 
-- Using this 3D model (exported as FBX) to animate them in Unreal Engine.
+- Using this 3D model (exported as FBX) to **animate** them in **Unreal Engine**.
     - [Unreal Engine](./2_UnrealEngine/)
 
 ![render_video](./2_UnrealEngine/Video.mp4)
 
-- Using this 3D model (exported as OBJ) to interact in real time with them.
+- Using this 3D model (exported as OBJ) to **interact** in real time with them using **WebGPU**.
     - [Web GPU](./3_WebGPU/)
 
 ![render_video](./3_WebGPU/Video.mp4)
