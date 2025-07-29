@@ -1,5 +1,9 @@
 # 3D Discovery
 
+## Troobleshoting
+
+If [saverio976.github.io/3DDiscovery](https://saverio976.github.io/3DDiscovery/) render a white screen, check your browser compatibility at [github.com/gpuweb/gpuweb/wiki/Implementation-Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status)
+
 ## Theme
 
 Sea Of Thieves
