@@ -2,7 +2,7 @@
 
 ## Troobleshoting
 
-If [saverio976.github.io/3DDiscovery](https://3ddiscovery-f10b13.gitlab.io/) render a white screen, check your browser compatibility at [github.com/gpuweb/gpuweb/wiki/Implementation-Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status)
+If [https://3ddiscovery-f10b13.gitlab.io/](https://3ddiscovery-f10b13.gitlab.io/) render a white screen, check your browser compatibility at [github.com/gpuweb/gpuweb/wiki/Implementation-Status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status)
 
 ## Theme
 
